@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoAreaLib", "GeoAreaLib\GeoAreaLib.csproj", "{3F541BD7-E507-4D65-855F-96F7E03BDD72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoAreaLib.Tests", "GeoAreaLib.Tests\GeoAreaLib.Tests.csproj", "{BE4B59F9-AA69-4E15-BCA6-A49CB7F3372E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F541BD7-E507-4D65-855F-96F7E03BDD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F541BD7-E507-4D65-855F-96F7E03BDD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F541BD7-E507-4D65-855F-96F7E03BDD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F541BD7-E507-4D65-855F-96F7E03BDD72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4B59F9-AA69-4E15-BCA6-A49CB7F3372E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4B59F9-AA69-4E15-BCA6-A49CB7F3372E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4B59F9-AA69-4E15-BCA6-A49CB7F3372E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4B59F9-AA69-4E15-BCA6-A49CB7F3372E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DA3D3DB-2720-44FC-AD4B-5076260EF979}
+	EndGlobalSection
+EndGlobal
